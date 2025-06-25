@@ -1,5 +1,10 @@
-   ![snake gif](https://github.com/olino3101/olino3101/blob/output/github-contribution-grid-snake.svg)
-   <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olino3101/olino3101/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olino3101/olino3101/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/olino3101/olino3101/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
+</picture>
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/XR-purple?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-6e44ff?style=for-the-badge&logo=python&logoColor=white" />
