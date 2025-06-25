@@ -4,6 +4,12 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/olino3101/olino3101/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/XR-purple?style=for-the-badge&logo=unity&logoColor=white" />
