@@ -1,4 +1,5 @@
-<div align="center">
+   ![snake gif](https://github.com/olino3101/olino3101/blob/output/github-contribution-grid-snake.svg)
+   <div align="center">
 
 <img src="https://img.shields.io/badge/XR-purple?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-6e44ff?style=for-the-badge&logo=python&logoColor=white" />
