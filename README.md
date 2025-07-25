@@ -3,65 +3,66 @@
 <img src="https://img.shields.io/badge/XR-purple?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-6e44ff?style=for-the-badge&logo=python&logoColor=white" />
 
-# Hi, I'm olino3101
+# Hi, I'm Olivier (olino3101)
 
 </div>
 
 ---
 
-<div align="center">
-**I work on stuff with** <span style="color:#a259ff; font-weight:bold;">XR</span> **and** <span style="color:#6e44ff; font-weight:bold;">AI</span>.
-</div>
+## ✨ About Me
+*(You can write something like this — edit as you want)*  
 
----
-
-## 🟣 About Me
-- 🕶️ Experimenting with VR  
-- 🤖 Building and learning about AI and machine learning  
-- 🛠️ Trying out new tech and coding tools  
+I'm a 19-year-old student at **42 Tokyo** with a strong interest in **AI**, **XR (VR/AR)**, and creative tech.  
+I’m looking for an internship where I can **apply my problem-solving skills**, **work on real-world projects**, and **learn from experienced developers**.  
 
 ---
 
 ## 💼 CV Highlights
 
 ### **Education**
-- **secondary diploma** - 2018-2023
-- **ASP** - in entrepreneurship - *2023-2023*
-- **42 Tokyo Common Core** – C, C++, Shell, Web, Algorithms – *2024–2025*
-- **42 Tokyo Specialisation** – C#, python, AI, data, Algorithms – *2025–Present*
+- **Secondary Diploma** – 2018–2023  
+- **ASP – Entrepreneurship** – 2023  
+- **42 Tokyo Common Core** – C, C++, Shell, Web, Algorithms – 2024–2025  
+- **42 Tokyo Specialisation** – AI, C#, Data, Advanced Algorithms – 2025–Present  
 
 ### **Key Programming Skills**
-- **Languages:** C, C++, C#, Python, JavaScript, Three.js
-- **Concepts:** OOP, AI basics, 3D rendering, architechture, data handling
+- **Languages:** C, C++, C#, Python, JavaScript  
+- **Concepts:** OOP, AI basics, 3D rendering, software architecture, data handling  
+
 ---
 
-### **other Skills**
-- **Languages:** French, English, Japanese
-- **collaboration skills** team project
-- **qualities** sociable, curious, sportif
+### **Other Skills**
+- **Languages:** French (Native), English (Fluent), Japanese (Basic)  
+- **Soft Skills:** Team collaboration, curiosity, adaptability, creative problem-solving  
+
+---
 
 ## 🚀 Projects
-Here are some of my favorite projects I’ve worked on:
+A few of my main projects:  
+- **[MultilayerPerceptron](https://github.com/your-repo):** AI, data algorithms (Python)  
+- **[Transcendence](https://github.com/your-repo):** Multiplayer Pong (Django, cybersecurity, real-time game)  
+- **[Minishell](https://github.com/your-repo):** Custom Unix shell (C)  
+- **[dlsr](https://github.com/your-repo):** Data classification AI (Python)  
+- **[InTheShadows](https://github.com/your-repo):** Game design and scripting (Unity, C#)
 
-- **[MultilayerPerceptron](https://github.com/your-repo):** AI, Algo, data (python)
-- **[Transcendence](https://github.com/your-repo):** Multiplayer Pong game (Django, Three.js, cybersecurity)  
-- **[Minishell](https://github.com/your-repo):** Custom Unix shell (C)
-- **[dlsr](https://github.com/your-repo):** AI, Algo, data (python)
-- **[LinearRegression](https://github.com/your-repo):** AI, Algo, data (python)
-- **[InTheShadows](https://github.com/your-repo):** unity, design (C#)
-- There is also other project from the 42 school like fractol, cube3d, pipex, piscine C, ft_irc, vr escape game, push_swap, cpp, inception...
+<details>
+<summary>More 42 projects</summary>
+fractol, cube3d, pipex, piscine C, ft_irc, vr escape game, push_swap, cpp modules 00-09, inception...
+</details>
+
 ---
 
 ## 🛠️ Tools & Tech
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white&labelColor=6e44ff&color=6e44ff)
-![Three.js](https://img.shields.io/badge/Three.js-6e44ff?style=flat&logo=three.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-6e44ff?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-6e44ff?style=flat&logo=tensorflow&logoColor=white)
-![React](https://img.shields.io/badge/React-6e44ff?style=flat&logo=react&logoColor=white)
+![C++](https://img.shields.io/badge/C++-6e44ff?style=flat&logo=cplusplus&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-6e44ff?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6e44ff?style=flat&logo=postgresql&logoColor=white)
 
 ---
 
 ## 📫 Contact
+- [GitHub](https://github.com/olino3101)  
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
 - [Email](mailto:your@email.com)
 
