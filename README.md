@@ -47,14 +47,17 @@
 - **qualities** sociable, curious, sportif
 
 ## 🚀 Projects
-Here are some of the main projects I’ve worked on:
+Here are some of my favorite projects I’ve worked on:
 
+- **[MultilayerPerceptron](https://github.com/your-repo):** AI, Algo, data (python)
 - **[Transcendence](https://github.com/your-repo):** Multiplayer Pong game (Django, Three.js, cybersecurity)  
-- **[Minishell](https://github.com/your-repo):** Custom Unix shell (C)  
-- **[Libft](https://github.com/your-repo):** Reimplementation of libc functions (C)  
-- **[CPP Modules (00–09)](https://github.com/your-repo):** Object-Oriented C++ training projects  
-- **[Push_swap](https://github.com/your-repo):** Stack sorting algorithm project (C)
-- There is also other project from the 42 school like fractol, cube3d, pipex, piscine C, ft_irc, vr escape game...
+- **[Minishell](https://github.com/your-repo):** Custom Unix shell (C)
+- **[dlsr](https://github.com/your-repo):** AI, Algo, data (python)
+- **[LinearRegression](https://github.com/your-repo):** AI, Algo, data (python)
+- **[InTheShadows](https://github.com/your-repo):** unity, design (C#)
+- 
+- 
+- There is also other project from the 42 school like fractol, cube3d, pipex, piscine C, ft_irc, vr escape game, push_swap, cpp, inception...
 ---
 
 ## 🛠️ Tools & Tech
