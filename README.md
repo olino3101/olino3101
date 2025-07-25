@@ -13,7 +13,12 @@
 
 I'm a 19-year-old student at **42 Tokyo** with a strong interest in **AI**, **XR (VR/AR)**, and creative tech.  
 I’m looking for an internship where I can **apply my problem-solving skills**, **work on real-world projects**, and **learn from experienced developers**.  
-It will help me for getting my RNCP7 title (master equivalent)
+It will help me in achieving my **RNCP7 title (Master equivalent)**.  
+
+I’m passionate about building projects that combine **AI with immersive technologies** and pushing the boundaries of interactive experiences.
+
+📄 **[Download my CV](./Olivier_Nault_CV.pdf)**  
+
 ---
 
 ## 💼 CV Highlights
@@ -25,8 +30,8 @@ It will help me for getting my RNCP7 title (master equivalent)
 - **42 Tokyo Specialisation** – AI, C#, Data, Advanced Algorithms, Unity – 2025–Present  
 
 ### **Key Programming Skills**
-- **Languages:** C, C++, C#, Python
-- **Concepts:** OOP, AI basics, 3D rendering, software architecture, data handling  
+- **Languages:** C, C++, C#, Python  
+- **Concepts:** OOP, AI fundamentals, 3D rendering, software architecture, data handling  
 
 ---
 
