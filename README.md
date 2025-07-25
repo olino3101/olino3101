@@ -43,11 +43,11 @@ I’m passionate about building projects that combine **AI with immersive techno
 
 ## 🚀 Projects
 A few of my main projects:  
-- **[MultilayerPerceptron](https://github.com/your-repo):** AI, data algorithms (Python)  
+- **[MultilayerPerceptron](https://github.com/Multilayer-Perceptron):** AI, data algorithms (Python)
+- **[LinearRegression](https://github.com/):** Game design and scripting (Unity, C#)
+- **[dlsr](https://github.com/dlsr):** Data classification AI (Python)  
 - **[Transcendence](https://github.com/your-repo):** Multiplayer Pong (Django, cybersecurity, real-time game)  
 - **[Minishell](https://github.com/your-repo):** Custom Unix shell (C)  
-- **[dlsr](https://github.com/your-repo):** Data classification AI (Python)  
-- **[InTheShadows](https://github.com/your-repo):** Game design and scripting (Unity, C#)
 
 <details>
 <summary>More 42 projects</summary>
