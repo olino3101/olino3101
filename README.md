@@ -29,28 +29,32 @@
 ---
 
 ## 💼 CV Highlights
-*(This section is for internship recruiters)*
 
 ### **Education**
-- **42 Tokyo** – Common Core (C, C++, Shell, Web, Algorithms) – *2024–Present*
+- **secondary diploma** - 2018-2023
+- **ASP** - in entrepreneurship - *2023-2023*
+- **42 Tokyo Common Core** – C, C++, Shell, Web, Algorithms – *2024–2025*
+- **42 Tokyo Specialisation** – C#, python, AI, data, Algorithms – *2025–Present*
 
-### **Key Skills**
-- **Languages:** C, C++, Python, JavaScript, Three.js, Django  
-- **Tools:** Git, Docker, PostgreSQL, WebSockets, Unity, TensorFlow  
-- **Concepts:** OOP, AI basics, Real-time multiplayer, 3D rendering  
-
+### **Key Programming Skills**
+- **Languages:** C, C++, C#, Python, JavaScript, Three.js
+- **Concepts:** OOP, AI basics, 3D rendering, architechture, data handling
 ---
+
+### **other Skills**
+- **Languages:** French, English, Japanese
+- **collaboration skills** team project
+- **qualities** sociable, curious, sportif
 
 ## 🚀 Projects
 Here are some of the main projects I’ve worked on:
 
-- **[Transcendence](https://github.com/your-repo):** Multiplayer Pong game (Django, Three.js, WebSockets)  
+- **[Transcendence](https://github.com/your-repo):** Multiplayer Pong game (Django, Three.js, cybersecurity)  
 - **[Minishell](https://github.com/your-repo):** Custom Unix shell (C)  
 - **[Libft](https://github.com/your-repo):** Reimplementation of libc functions (C)  
 - **[CPP Modules (00–09)](https://github.com/your-repo):** Object-Oriented C++ training projects  
-- **[so_long](https://github.com/your-repo):** 2D game project in C with MiniLibX  
 - **[Push_swap](https://github.com/your-repo):** Stack sorting algorithm project (C)
-
+- There is also other project from the 42 school like fractol, cube3d, pipex, piscine C, ft_irc, vr escape game...
 ---
 
 ## 🛠️ Tools & Tech
