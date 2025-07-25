@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/olino3101/olino3101/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/olino3101/olino3101/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/olino3101/olino3101/output/github-contribution-grid-snake.svg" style="max-width: 100%;" />
-</picture>
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/XR-purple?style=for-the-badge&logo=unity&logoColor=white" />
@@ -22,7 +16,7 @@
 ---
 
 ## 🟣 About Me
-- 🕶️ Experimenting with XR (VR, AR, MR)  
+- 🕶️ Experimenting with VR  
 - 🤖 Building and learning about AI and machine learning  
 - 🛠️ Trying out new tech and coding tools  
 
@@ -55,8 +49,6 @@ Here are some of my favorite projects I’ve worked on:
 - **[dlsr](https://github.com/your-repo):** AI, Algo, data (python)
 - **[LinearRegression](https://github.com/your-repo):** AI, Algo, data (python)
 - **[InTheShadows](https://github.com/your-repo):** unity, design (C#)
-- 
-- 
 - There is also other project from the 42 school like fractol, cube3d, pipex, piscine C, ft_irc, vr escape game, push_swap, cpp, inception...
 ---
 
@@ -66,14 +58,6 @@ Here are some of my favorite projects I’ve worked on:
 ![Python](https://img.shields.io/badge/Python-6e44ff?style=flat&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-6e44ff?style=flat&logo=tensorflow&logoColor=white)
 ![React](https://img.shields.io/badge/React-6e44ff?style=flat&logo=react&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olino3101&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olino3101&layout=compact&theme=radical" height="150"/>
-</p>
 
 ---
 
