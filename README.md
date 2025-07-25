@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/XR-purple?style=for-the-badge&logo=unity&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-6e44ff?style=for-the-badge&logo=python&logoColor=white" />
 
-# Hi, I'm Olivier (olino3101)
+# Hi, I'm Oli (olino3101)
 
 </div>
 
@@ -13,7 +13,7 @@
 
 I'm a 19-year-old student at **42 Tokyo** with a strong interest in **AI**, **XR (VR/AR)**, and creative tech.  
 I’m looking for an internship where I can **apply my problem-solving skills**, **work on real-world projects**, and **learn from experienced developers**.  
-
+It will help me for getting my RNCP7 title (master equivalent)
 ---
 
 ## 💼 CV Highlights
@@ -22,10 +22,10 @@ I’m looking for an internship where I can **apply my problem-solving skills**,
 - **Secondary Diploma** – 2018–2023  
 - **ASP – Entrepreneurship** – 2023  
 - **42 Tokyo Common Core** – C, C++, Shell, Web, Algorithms – 2024–2025  
-- **42 Tokyo Specialisation** – AI, C#, Data, Advanced Algorithms – 2025–Present  
+- **42 Tokyo Specialisation** – AI, C#, Data, Advanced Algorithms, Unity – 2025–Present  
 
 ### **Key Programming Skills**
-- **Languages:** C, C++, C#, Python, JavaScript  
+- **Languages:** C, C++, C#, Python
 - **Concepts:** OOP, AI basics, 3D rendering, software architecture, data handling  
 
 ---
@@ -62,8 +62,7 @@ fractol, cube3d, pipex, piscine C, ft_irc, vr escape game, push_swap, cpp module
 
 ## 📫 Contact
 - [GitHub](https://github.com/olino3101)  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- [Email](mailto:your@email.com)
+- [Email](mailto:olinault@hotmail.com)
 
 ---
 
