@@ -17,7 +17,7 @@ It will help me in achieving my **RNCP7 title (Master equivalent)**.
 
 I’m passionate about building projects that combine **AI with immersive technologies** and pushing the boundaries of interactive experiences.
 
-📄 **[Download my CV](./Olivier_Nault_CV.pdf)**  
+📄 **[Download my CV](./olivier_Nault_CV.pdf)**  
 
 ---
 
