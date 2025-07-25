@@ -58,10 +58,10 @@ fractol, cube3d, pipex, piscine C, ft_irc, vr escape game, push_swap, cpp module
 
 ## 🛠️ Tools & Tech
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white&labelColor=6e44ff&color=6e44ff)
-![Python](https://img.shields.io/badge/Python-6e44ff?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-6e44ff?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-6e44ff?style=flat&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-6e44ff?style=flat&logo=cplusplus&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-6e44ff?style=flat&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-6e44ff?style=flat&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6e44ff?style=flat&logo=python&logoColor=white)
 
 ---
 
