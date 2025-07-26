@@ -17,7 +17,9 @@ It will help me in achieving my **RNCP7 title (Master equivalent)**.
 
 I’m passionate about building projects that combine **AI with immersive technologies** and pushing the boundaries of interactive experiences.
 
-📄 **[Download my CV](./olivier_Nault_CV.pdf)**  
+📄 **[View my CV (English)](./olivier_Nault_CV_English.pdf)**  
+📄 **[View my CV (French)](./olivier_Nault_CV_French.pdf)**  
+
 
 ---
 
@@ -67,7 +69,7 @@ fractol, cube3d, pipex, piscine C, ft_irc, vr escape game, push_swap, cpp module
 
 ## 📫 Contact
 - [GitHub](https://github.com/olino3101)  
-- [Email](mailto:olinault@hotmail.com)
+- [Email](mailto:olivnault@outlook.com)
 
 ---
 
