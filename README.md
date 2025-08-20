@@ -9,7 +9,7 @@
 
 ---
 
-## ✨ About Me
+## About Me
 
 I'm a 19-year-old student at **42 Tokyo** with a strong interest in **AI**, **XR (VR/AR)**, and creative tech.  
 I’m looking for an internship where I can **apply my problem-solving skills**, **work on real-world projects**, and **learn from experienced developers**.  
