@@ -1,75 +1,83 @@
 <div align="center">
 
 <img src="https://img.shields.io/badge/XR-purple?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-6e44ff?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/IA-6e44ff?style=for-the-badge&logo=python&logoColor=white" />
 
-# Hi, I'm Oli (olino3101)
+# Salut, je suis Oli (olino3101)
 
 </div>
 
 ---
 
-## About Me
+## À propos de moi
 
-I'm a 19-year-old student at **42 Tokyo** with a strong interest in **AI**, **XR (VR/AR)**, and creative tech.  
-I’m looking for an internship where I can **apply my problem-solving skills**, **work on real-world projects**, and **learn from experienced developers**.  
-It will help me in achieving my **RNCP7 title (Master equivalent)**.  
+Je suis étudiant de 19 ans à **42 Tokyo**, passionné par l’**IA**, la **XR (VR/AR)** et les technologies créatives.
+Je cherche un stage pour **mettre en pratique mes compétences en résolution de problèmes**, **travailler sur des projets concrets** et **apprendre auprès de développeurs expérimentés**.
+Cela m’aidera à obtenir mon **titre RNCP7 (équivalent Master)**.
 
-I’m passionate about building projects that combine **AI with immersive technologies** and pushing the boundaries of interactive experiences.
+Je suis motivé par la création de projets qui combinent **IA et technologies immersives**, en repoussant les limites des expériences interactives.
 
-📄 **[View my CV (English)](./olivier_Nault_CV_English.pdf)**  
-📄 **[View my CV (French)](./olivier_Nault_CV_French.pdf)**  
-
-
----
-
-## 💼 CV Highlights
-
-### **Education**
-- **Secondary Diploma** – 2018–2023  
-- **ASP – Entrepreneurship** – 2023  
-- **42 Tokyo Common Core** – C, C++, Shell, Web, Algorithms – 2024–2025  
-- **42 Tokyo Specialisation** – AI, C#, Data, Advanced Algorithms, Unity – 2025–Present  
-
-### **Key Programming Skills**
-- **Languages:** C, C++, C#, Python  
-- **Concepts:** OOP, AI fundamentals, 3D rendering, software architecture, data handling  
+📄 **[Voir mon CV (anglais)](./olivier_Nault_CV_English.pdf)**
+📄 **[Voir mon CV (français)](./olivier_Nault_CV_French.pdf)**
 
 ---
 
-### **Other Skills**
-- **Languages:** French (Native), English (Fluent), Japanese (Basic)  
-- **Soft Skills:** Team collaboration, curiosity, adaptability, creative problem-solving  
+## 💼 Parcours
+
+### **Formation**
+
+* **Diplôme secondaire** – 2018–2023
+* **ASP – Entrepreneuriat** – 2023
+* **42 Tokyo Tronc Commun** – C, C++, Shell, Web, Algorithmes – 2024–2025
+* **42 Tokyo Spécialisation** – IA, C#, Données, Algorithmes avancés, Unity – 2025–Présent
+
+### **Compétences en programmation**
+
+* **Langages :** C, C++, C#, Python
+* **Concepts :** POO, bases de l’IA, rendu 3D, architecture logicielle, gestion de données
 
 ---
 
-## 🚀 Projects
-A few of my main projects:  
-- **[MultilayerPerceptron](https://github.com/olino3101/Multilayer-Perceptron):** AI, data algorithms (Python)
-- **[LinearRegression](https://github.com/olino3101/Linear-Regression):** AI, algorithms (Python)
-- **[dlsr](https://github.com/olino3101/Dlsr):** Data classification AI, algorithms (Python)  
-- **[Transcendence](https://github.com/olino3101/ft_transcendance):** Multiplayer Pong (Django, cybersecurity, real-time game)  
-- **[Minishell](https://github.com/olino3101/Minishell):** Custom Unix shell (C)  
+### **Autres compétences**
+
+* **Langues :** Français (natif), Anglais (courant), Japonais (débutant)
+* **Atouts :** Travail en équipe, curiosité, adaptabilité, créativité dans la résolution de problèmes
+
+---
+
+## 🚀 Projets
+
+Quelques-uns de mes projets principaux :
+
+* **[MultilayerPerceptron](https://github.com/olino3101/Multilayer-Perceptron) :** IA, algorithmes de données (Python)
+* **[LinearRegression](https://github.com/olino3101/Linear-Regression) :** IA, algorithmes (Python)
+* **[dlsr](https://github.com/olino3101/Dlsr) :** Classification de données, IA, algorithmes (Python)
+* **[Transcendence](https://github.com/olino3101/ft_transcendance) :** Pong multijoueur (Django, cybersécurité, temps réel)
+* **[Minishell](https://github.com/olino3101/Minishell) :** Shell Unix personnalisé (C)
+* **[RedTetris](https://github.com/olino3101/RedTetris) :** Jeux web Tetris multijoueur (javascript)
 
 <details>
-<summary>More 42 projects</summary>
-fractol, cube3d, pipex, piscine C, ft_irc, vr escape game, push_swap, cpp modules 00-09, inception...
+<summary>Plus de projets 42</summary>
+fractol, cube3d, pipex, piscine C, ft_irc, jeu VR d’évasion, push_swap, modules C++ 00-09, inception...
 </details>
 
 ---
 
-## 🛠️ Tools & Tech
-![Unity](https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white&labelColor=6e44ff&color=6e44ff)
-![C](https://img.shields.io/badge/C-6e44ff?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-6e44ff?style=flat&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-6e44ff?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-6e44ff?style=flat&logo=python&logoColor=white)
+## 🛠️ Outils & Technologies
+
+![Unity](https://img.shields.io/badge/Unity-100000?style=flat\&logo=unity\&logoColor=white\&labelColor=6e44ff\&color=6e44ff)
+![C](https://img.shields.io/badge/C-6e44ff?style=flat\&logo=c\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-6e44ff?style=flat\&logo=csharp\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-6e44ff?style=flat\&logo=cplusplus\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6e44ff?style=flat\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6e44ff?style=flat&logo=javascript&logoColor=white)
 
 ---
 
 ## 📫 Contact
-- [GitHub](https://github.com/olino3101)  
-- [Email](mailto:olivnault@outlook.com)
+
+* [GitHub](https://github.com/olino3101)
+* [Email](mailto:olivnault@outlook.com)
 
 ---
 
