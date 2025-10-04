@@ -13,7 +13,7 @@
 
 Je suis étudiant de 19 ans à **42 Tokyo**, passionné par l’**IA**, la **XR (VR/AR)** et les technologies créatives.
 Je cherche un stage pour **mettre en pratique mes compétences en résolution de problèmes**, **travailler sur des projets concrets** et **apprendre auprès de développeurs expérimentés**.
-Cela m’aidera à obtenir mon **titre RNCP7 (équivalent Master)**.
+Cela m’aidera à obtenir mon **titre RNCP6 (équivalent Bachelor)**.
 
 Je suis motivé par la création de projets qui combinent **IA et technologies immersives**, en repoussant les limites des expériences interactives.
 
