@@ -17,8 +17,7 @@ Cela m’aidera à obtenir mon **titre RNCP6 (équivalent Bachelor)**.
 
 Je suis motivé par la création de projets qui combinent **IA et technologies immersives**, en repoussant les limites des expériences interactives.
 
-📄 **[Voir mon CV (anglais)](./olivier_Nault_CV_English.pdf)**
-📄 **[Voir mon CV (français)](./olivier_Nault_CV_French.pdf)**
+📄 **[Voir mon CV (français)](./Olivier_nault_CV.pdf)**
 
 ---
 
