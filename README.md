@@ -39,7 +39,7 @@ Je suis motivé par la création de projets qui combinent **IA et technologies i
 
 ### **Autres compétences**
 
-* **Langues :** Français (natif), Anglais (courant), Japonais (débutant)
+* **Langues :** Français (natif), Anglais (courant), Japonais (conversationel)
 * **Atouts :** Travail en équipe, curiosité, adaptabilité, créativité dans la résolution de problèmes
 
 ---
