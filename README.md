@@ -13,7 +13,7 @@
 
 Je suis étudiant de 19 ans à **42 Tokyo**, passionné par l’**IA**, la **XR (VR/AR)** et les technologies créatives.
 Je cherche un stage pour **mettre en pratique mes compétences en résolution de problèmes**, **travailler sur des projets concrets** et **apprendre auprès de développeurs expérimentés**.
-Cela m’aidera à obtenir mon **titre RNCP6 (équivalent Bachelor)**.
+Cela m’aidera à obtenir mon **titre RNCP6 (diplôme)**.
 
 Je suis motivé par la création de projets qui combinent **IA et technologies immersives**, en repoussant les limites des expériences interactives.
 
@@ -25,21 +25,24 @@ Je suis motivé par la création de projets qui combinent **IA et technologies i
 
 ### **Formation**
 
+
 * **Diplôme secondaire** – 2018–2023
 * **ASP – Entrepreneuriat** – 2023
-* **42 Tokyo Tronc Commun** – C, C++, Shell, Web, Algorithmes – 2024–2025
+* **Harvard CS50 - C, Python, Html, SQL - 2023**
+* **Unity Learn Course - Unity, C# - 2023**
+* **42 Québec Tronc Commun** – C, C++, Shell, Web, Algorithmes – 2024–2025
 * **42 Tokyo Spécialisation** – IA, C#, Données, Algorithmes avancés, Unity – 2025–Présent
 
 ### **Compétences en programmation**
 
-* **Langages :** C, C++, C#, Python
+* **Langages :** C, C++, C#, Python, Javascript
 * **Concepts :** POO, bases de l’IA, rendu 3D, architecture logicielle, gestion de données
 
 ---
 
 ### **Autres compétences**
 
-* **Langues :** Français (natif), Anglais (courant), Japonais (conversationel)
+* **Langues :** Français (langue maternelle), Anglais (courant), Japonais (conversationnel)
 * **Atouts :** Travail en équipe, curiosité, adaptabilité, créativité dans la résolution de problèmes
 
 ---
