@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/XR-purple?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/IA-6e44ff?style=for-the-badge&logo=python&logoColor=white" />
+
 
 # Salut, je suis Oli (olino3101)
 
