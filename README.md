@@ -16,8 +16,6 @@ Cela m’aidera à obtenir mon **titre RNCP6 (diplôme)**.
 
 Je suis motivé par la création de projets qui combinent **IA et technologies immersives**, en repoussant les limites des expériences interactives.
 
-📄 **[Voir mon CV (français)](./Olivier_nault_CV.pdf)**
-
 ---
 
 ## 💼 Parcours
@@ -31,7 +29,7 @@ Je suis motivé par la création de projets qui combinent **IA et technologies i
 * **Harvard CS50 - C, Python, Html, SQL - 2023**
 * **CG Boost - Blender, 3D modeling**
 * **ASP – Entrepreneuriat** – 2023
-* **Diplôme secondaire** – 2018–2023
+* **Diplôme secondaire - Marie-Rivier/Jean-Raimbault Drummondville** – 2018–2023
   
 
 ### **Compétences en programmation**
