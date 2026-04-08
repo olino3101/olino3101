@@ -11,8 +11,8 @@
 ## À propos de moi
 
 Je suis étudiant de 20 ans à **42 Tokyo**, passionné par l’**IA**, la **XR (VR/AR)** et les technologies créatives.
-Je cherche un stage pour **mettre en pratique mes compétences en résolution de problèmes**, **travailler sur des projets concrets** et **apprendre auprès de développeurs expérimentés**.
-Cela m’aidera à obtenir mon **titre RNCP6 (diplôme)**.
+Je cherche un stage pour **mettre en pratique mes compétences en résolution de problèmes**, **travailler sur des projets concrets** et **apprendre auprès de développeurs expérimentés**.hh
+Cela m’aidera à obtenir mon **titre RNCP6 (équivalent au baccalauréat en France)**.
 
 Je suis motivé par la création de projets qui combinent **IA et technologies immersives**, en repoussant les limites des expériences interactives.
 
@@ -23,13 +23,13 @@ Je suis motivé par la création de projets qui combinent **IA et technologies i
 ### **Formation**
 
 
-* **42 Tokyo Spécialisation** – IA, C#, Données, Algorithmes avancés, Unity – 2025–Présent
-* **42 Québec Tronc Commun** – C, C++, Shell, Web, Algorithmes – 2024–2025
+* **42 Tokyo spécialisation** – IA, C#, Données, Algorithmes avancés, Unity – 2025–Présent
+* **42 Québec Tronc commun** – C, C++, Shell, Web, Algorithmes – 2024–2025
 * **Unity Learn Course - Unity, C# - 2023**
 * **Harvard CS50 - C, Python, Html, SQL - 2023**
 * **CG Boost - Blender, 3D modeling**
 * **ASP – Entrepreneuriat** – 2023
-* **Diplôme secondaire - Marie-Rivier/Jean-Raimbault Drummondville** – 2018–2023
+* **Diplôme d'étude secondaire - École Secondaire Marie-Rivier, École Secondaire Jean-Raimbault, École à la maison (ChallengeU)** – 2018–2023
   
 
 ### **Compétences en programmation**
