@@ -29,7 +29,7 @@ Je suis motivé par la création de projets qui combinent **IA et technologies i
 * **Harvard CS50 - C, Python, Html, SQL - 2023**
 * **CG Boost - Blender, 3D modeling**
 * **ASP – Entrepreneuriat** – 2023
-* **Diplôme d'étude secondaire - École Secondaire Marie-Rivier, École Secondaire Jean-Raimbault, École à la maison (ChallengeU)** – 2018–2023
+* **Diplôme d'étude secondaire - École secondaire Marie-Rivier, École secondaire Jean-Raimbault, École à la maison (ChallengeU)** – 2018–2023
   
 
 ### **Compétences en programmation**
